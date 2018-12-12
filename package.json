@@ -2,7 +2,7 @@
   "name": "vue-workflow",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "liuming <liuming@autohome.com.cn>",
+  "author": "liuming <liuming@gmail.com>",
   "private": true,
   "scripts": {
     "precommit": "npm run lint-staged",
